@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\JUST IT\c#\WhileAndDoRiddles\WhileAndDoRiddles\bin\Debug\WhileAndDoRiddles.exe.config
+C:\Users\student\Desktop\JUST IT\c#\WhileAndDoRiddles\WhileAndDoRiddles\bin\Debug\WhileAndDoRiddles.exe
+C:\Users\student\Desktop\JUST IT\c#\WhileAndDoRiddles\WhileAndDoRiddles\bin\Debug\WhileAndDoRiddles.pdb
+C:\Users\student\Desktop\JUST IT\c#\WhileAndDoRiddles\WhileAndDoRiddles\obj\Debug\WhileAndDoRiddles.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\JUST IT\c#\WhileAndDoRiddles\WhileAndDoRiddles\obj\Debug\WhileAndDoRiddles.exe
+C:\Users\student\Desktop\JUST IT\c#\WhileAndDoRiddles\WhileAndDoRiddles\obj\Debug\WhileAndDoRiddles.pdb
