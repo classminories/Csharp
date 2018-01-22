@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\JUST IT\c#\switchCase\switchCase\bin\Debug\switchCase.exe.config
+C:\Users\student\Desktop\JUST IT\c#\switchCase\switchCase\obj\Debug\switchCase.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\JUST IT\c#\switchCase\switchCase\bin\Debug\switchCase.exe
+C:\Users\student\Desktop\JUST IT\c#\switchCase\switchCase\bin\Debug\switchCase.pdb
+C:\Users\student\Desktop\JUST IT\c#\switchCase\switchCase\obj\Debug\switchCase.exe
+C:\Users\student\Desktop\JUST IT\c#\switchCase\switchCase\obj\Debug\switchCase.pdb
