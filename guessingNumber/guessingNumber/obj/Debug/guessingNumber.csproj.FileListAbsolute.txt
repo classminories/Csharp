@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\JUST IT\c#\guessingNumber\guessingNumber\bin\Debug\guessingNumber.exe.config
+C:\Users\student\Desktop\JUST IT\c#\guessingNumber\guessingNumber\bin\Debug\guessingNumber.exe
+C:\Users\student\Desktop\JUST IT\c#\guessingNumber\guessingNumber\bin\Debug\guessingNumber.pdb
+C:\Users\student\Desktop\JUST IT\c#\guessingNumber\guessingNumber\obj\Debug\guessingNumber.exe
+C:\Users\student\Desktop\JUST IT\c#\guessingNumber\guessingNumber\obj\Debug\guessingNumber.pdb
